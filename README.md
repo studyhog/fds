@@ -1,2 +1,2 @@
-# fds
-f daily standups
+![Fuck daily standups](Fds.jpg)
+
